@@ -1,14 +1,10 @@
 
 # Nexus Digital
+## Desarrollador
+* **Augusto Andrés Raffaeli** - Web & Digital Applications Developer
 
-## Módulo Programador Web | Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales
+*Nota: Este proyecto fue iniciado originalmente en un entorno académico colaborativo y adaptado de manera individual para este portafolio personal.*
 
-## Integrantes
-- Juan Ignacio Alonso (Scrum Master)
-- Griselda Leonor Aguirre (Developer) 
-- Augusto Andrés Raffaeli (Developer) 
-- Yohana Eugenia Grosso (Developer)
-- María Soledad Scarlata (Developer)
 
 
 
@@ -91,38 +87,10 @@ La plataforma permite a los usuarios:
 - Ver historial de compras
 
 
-## Requerimientos Funcionales
-
-| Código | Requisito Funcional |
-|--------|--------------------|
-| RF01 | El sistema debe permitir a los usuarios registrarse ingresando sus datos personales y credenciales, así como iniciar sesión para acceder a su cuenta. |
-| RF02 | El sistema debe permitir a los usuarios crear, editar y eliminar productos, ingresando nombre, descripción, precio y stock. |
-| RF03 | El sistema debe permitir a los usuarios buscar productos por nombre y aplicar filtros por palabra clave. |
-| RF04 | El sistema debe permitir a los usuarios agregar productos al carrito, modificar cantidades y eliminar productos previamente agregados. |
-| RF05 | El sistema debe permitir a los usuarios confirmar la compra de los productos del carrito, generando una orden de compra. |
-| RF06 | El sistema debe permitir a los usuarios visualizar el historial de compras realizadas. |
-| RF07 | El sistema debe permitir a los usuarios visualizar el detalle de cada producto, incluyendo descripción, precio y disponibilidad. |
-| RF08 | El sistema debe permitir a los usuarios visualizar un resumen del carrito con el total de la compra antes de confirmarla. |
-
----
-
-## Requerimientos No Funcionales
-
-| Código | Requisito No Funcional |
-|--------|------------------------|
-| RNF01 | El sistema debe ser responsive, garantizando su correcto funcionamiento en dispositivos móviles, tablets y computadoras. |
-| RNF02 | El sistema debe garantizar la seguridad de los datos personales mediante el uso de cifrado de contraseñas y buenas prácticas de seguridad. |
-| RNF03 | El sistema debe estar estructurado de forma modular y organizada, facilitando su mantenimiento, escalabilidad y futuras actualizaciones. |
-| RNF04 | El sistema debe ofrecer una interfaz intuitiva y fácil de usar, permitiendo a los usuarios navegar y realizar acciones sin dificultad. |
-| RNF05 | El sistema debe responder a las solicitudes del usuario en un tiempo adecuado, garantizando una experiencia fluida. |
 
 
 
-## Documentación
 
-[Wiki del Proyecto](https://github.com/Nexus-Proyecto/Nexus-Digital/wiki/Documentaci%C3%B3n-y-Enlaces)
 
----
 
-> Documento elaborado bajo metodología ágil (Scrum).  
-> Proyecto académico — Instituto Superior Politécnico Córdoba (ISPC) — Cohorte 2025.
+
